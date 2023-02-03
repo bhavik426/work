@@ -1,0 +1,7 @@
+Step 1: Start.
+Step 2: Get radius of circle R.
+Step 3: Calculate area of circle. 
+pi=3.14;
+area=pi*radius*radius;
+Step 4: Return area of circle.
+Step 5: Stop.

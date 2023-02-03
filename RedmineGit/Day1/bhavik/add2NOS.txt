@@ -1,0 +1,6 @@
+Step 1: Start.
+Step 2: Take two numbers A and B.
+Step 3: Add the two numbers in C.
+Step 4: C=A+B;
+Step 5: Return C.
+Step 6: Stop.
