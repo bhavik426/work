@@ -1,10 +1,12 @@
 Step 1: Start.
-Step 2: Take a number.
-step 3: if no number then goto step 10.
-Step 4: check wether it is even or not.
-Step 5: number%2=0;
-Step 6: if number%2==0 then do step 7&8 Else goto step9.
-Step 7: Take that number and add in sum.
-Step 8: sum=sum+number;
-Step 9: Repeat Step 2 to Step 6 until there is no new number.
-Step 10: Stop.
+Step 2: Take a Number N.
+step 3: For I=0;
+step 4: if I>N Number then goto step 12.
+Step 5: check wether it is even or not.
+Step 6: I%2=0;
+Step 7: if I%2==0 then do step 8to10 Else goto step12.
+Step 8: Take that Number and add in sum.
+Step 9: sum=sum+I;
+step 10: I=I+1;
+Step 11: goto step 4.
+Step 12: Stop.
